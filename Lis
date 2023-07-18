@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN 3" tvg-logo="" group-title="ESPN",Latino | ESPN 3
+http://192.99.70.160:25461/Victor/Victor/91045
+#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="" group-title="ESPN",Latino | ESPN Deportes
+http://192.99.70.160:25461/Victor/Victor/91046
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  4 ARG" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN  4 ARG
+http://192.99.70.160:25461/Victor/Victor/91047
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 1 MX
+http://192.99.70.160:25461/Victor/Victor/91048
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 2 MX
+http://192.99.70.160:25461/Victor/Victor/91049
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 3 MX
+http://192.99.70.160:25461/Victor/Victor/91050
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  1  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  1  ARG
+http://192.99.70.160:25461/Victor/Victor/91051
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  2  ARG
+http://192.99.70.160:25461/Victor/Victor/91052
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  3  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  3  ARG
+http://192.99.70.160:25461/Victor/Victor/91053
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 1 MX
+http://192.99.70.160:25461/Victor/Victor/91054
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 2 MX
+http://192.99.70.160:25461/Victor/Victor/91055
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 3 MX
+http://192.99.70.160:25461/Victor/Victor/91056
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 HD MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 4 HD MX
+http://192.99.70.160:25461/Victor/Victor/91057
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus ARG" tvg-logo="" group-title="ESPN",DEPORTES | Espn Plus ARG
+http://192.99.70.160:25461/Victor/Victor/91058
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="" group-title="ESPN",ARG DEP | ESPN
+http://192.99.70.160:25461/Victor/Victor/91059
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 1 HD
+http://192.99.70.160:25461/Victor/Victor/91060
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 2
+http://192.99.70.160:25461/Victor/Victor/91061
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 3
+http://192.99.70.160:25461/Victor/Victor/91062
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 2" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 2
+http://192.99.70.160:25461/Victor/Victor/91063
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 3" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 3
+http://192.99.70.160:25461/Victor/Victor/91064
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 4
+http://192.99.70.160:25461/Victor/Victor/91065
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="" group-title="ESPN",ARG DEP | ESPN PLUS
+http://192.99.70.160:25461/Victor/Victor/91066
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="" group-title="ESPN",COL DEP | ESPN
+http://192.99.70.160:25461/Victor/Victor/91067
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="" group-title="ESPN",COL DEP | ESPN 2
+http://192.99.70.160:25461/Victor/Victor/91068
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="" group-title="ESPN",COL DEP | ESPN 3
+http://192.99.70.160:25461/Victor/Victor/91069
+#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN" tvg-logo="" group-title="ESPN",BRA DEP | ESPN
+http://192.99.70.160:25461/Victor/Victor/91070
+#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN 2" tvg-logo="" group-title="ESPN",BRA DEP | ESPN 2
+http://192.99.70.160:25461/Victor/Victor/91071
