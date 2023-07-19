@@ -15,32 +15,28 @@ http://elmonkey.us:25461/Victor/Victor/91171
 http://elmonkey.us:25461/Victor/Victor/91172
 #EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 New York" tvg-logo="" group-title="USA",USA | ABC 7 New York
 http://elmonkey.us:25461/Victor/Victor/91173
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="" group-title="USA",USA | ABC News
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6bc280ee2279ce8bb01f39ed7f0e3860.jpg" group-title="USA",USA | ABC News
 http://elmonkey.us:25461/Victor/Victor/91174
-#EXTINF:-1 tvg-id="" tvg-name="USA | ACC Network" tvg-logo="" group-title="USA",USA | ACC Network
+#EXTINF:-1 tvg-id="" tvg-name="USA | ACC Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dbb84bc5c8ad17cb804dc0508b3fbb46.png" group-title="USA",USA | ACC Network
 http://elmonkey.us:25461/Victor/Victor/91175
-#EXTINF:-1 tvg-id="" tvg-name="USA | AMC" tvg-logo="" group-title="USA",USA | AMC
+#EXTINF:-1 tvg-id="" tvg-name="USA | AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png" group-title="USA",USA | AMC
 http://elmonkey.us:25461/Victor/Victor/91176
-#EXTINF:-1 tvg-id="" tvg-name="USA | American Heroes Channel" tvg-logo="" group-title="USA",USA | American Heroes Channel
+#EXTINF:-1 tvg-id="" tvg-name="USA | American Heroes Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f58f1072e51fa41b7b8db82716fa52a1.png" group-title="USA",USA | American Heroes Channel
 http://elmonkey.us:25461/Victor/Victor/91177
-#EXTINF:-1 tvg-id="" tvg-name="USA | Animal Planet" tvg-logo="" group-title="USA",USA | Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="USA | Animal Planet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/26c5334f6379a086e510b35b01f6bd47.png" group-title="USA",USA | Animal Planet
 http://elmonkey.us:25461/Victor/Victor/91178
-#EXTINF:-1 tvg-id="" tvg-name="USA | BBC America" tvg-logo="" group-title="USA",USA | BBC America
+#EXTINF:-1 tvg-id="" tvg-name="USA | BBC America" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5c4fc8ce29f59f0a5cca12752f4cbca.png" group-title="USA",USA | BBC America
 http://elmonkey.us:25461/Victor/Victor/91179
-#EXTINF:-1 tvg-id="" tvg-name="USA | beIN Sports" tvg-logo="" group-title="USA",USA | beIN Sports
-http://elmonkey.us:25461/Victor/Victor/91180
-#EXTINF:-1 tvg-id="" tvg-name="USA | BET" tvg-logo="" group-title="USA",USA | BET
+#EXTINF:-1 tvg-id="" tvg-name="USA | beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="USA",USA | beIN Sports
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/284530
+#EXTINF:-1 tvg-id="" tvg-name="USA | BET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2100155aebd676ec6e53a81a6f43c322.png" group-title="USA",USA | BET
 http://elmonkey.us:25461/Victor/Victor/91181
-#EXTINF:-1 tvg-id="" tvg-name="USA | BET Her" tvg-logo="" group-title="USA",USA | BET Her
+#EXTINF:-1 tvg-id="" tvg-name="USA | BET Her" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bfccbf9ed73311b206df744078ae3bad.png" group-title="USA",USA | BET Her
 http://elmonkey.us:25461/Victor/Victor/91182
-#EXTINF:-1 tvg-id="" tvg-name="USA | Big Ten Network" tvg-logo="" group-title="USA",USA | Big Ten Network
-http://elmonkey.us:25461/Victor/Victor/91183
-#EXTINF:-1 tvg-id="" tvg-name="USA | Boomerang" tvg-logo="" group-title="USA",USA | Boomerang
-http://elmonkey.us:25461/Victor/Victor/91184
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bravo" tvg-logo="" group-title="USA",USA | Bravo
-http://elmonkey.us:25461/Victor/Victor/91185
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cartoon Network" tvg-logo="" group-title="USA",USA | Cartoon Network
-http://elmonkey.us:25461/Victor/Victor/91186
+#EXTINF:-1 tvg-id="" tvg-name="USA | Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/261ed359779524389a93dbdcc083cac4.png" group-title="USA",USA | Boomerang
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/2281
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6562a84816a8995a0ad41c76cd6ff7be.png" group-title="USA",USA | Cartoon Network
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/2286
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS" tvg-logo="" group-title="USA",USA | CBS
 http://elmonkey.us:25461/Victor/Victor/91187
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 10 Tampa Bay" tvg-logo="" group-title="USA",USA | CBS 10 Tampa Bay
