@@ -37,40 +37,30 @@ http://elmonkey.us:25461/Victor/Victor/91182
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/2281
 #EXTINF:-1 tvg-id="" tvg-name="USA | Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6562a84816a8995a0ad41c76cd6ff7be.png" group-title="USA",USA | Cartoon Network
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/2286
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS" tvg-logo="" group-title="USA",USA | CBS
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS" tvg-logo="http://descargas.podzone.net/logos/-CBS.png" group-title="USA",USA | CBS
 http://elmonkey.us:25461/Victor/Victor/91187
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 10 Tampa Bay" tvg-logo="" group-title="USA",USA | CBS 10 Tampa Bay
 http://elmonkey.us:25461/Victor/Victor/91188
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 11 Houston" tvg-logo="" group-title="USA",USA | CBS 11 Houston
 http://elmonkey.us:25461/Victor/Victor/91189
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 Chicago" tvg-logo="" group-title="USA",USA | CBS 2 Chicago
-http://elmonkey.us:25461/Victor/Victor/91190
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 Los Angeles" tvg-logo="" group-title="USA",USA | CBS 2 Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 Los Angeles" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6c388746b55e96754f9d4c7f67492b5a.png" group-title="USA",USA | CBS 2 Los Angeles
 http://elmonkey.us:25461/Victor/Victor/91191
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 New York" tvg-logo="" group-title="USA",USA | CBS 2 New York
 http://elmonkey.us:25461/Victor/Victor/91192
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 3 Philadelphia" tvg-logo="" group-title="USA",USA | CBS 3 Philadelphia
-http://elmonkey.us:25461/Victor/Victor/91193
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Denver" tvg-logo="" group-title="USA",USA | CBS 4 Denver
 http://elmonkey.us:25461/Victor/Victor/91194
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Miami" tvg-logo="" group-title="USA",USA | CBS 4 Miami
 http://elmonkey.us:25461/Victor/Victor/91195
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Orlando" tvg-logo="" group-title="USA",USA | CBS 4 Orlando
-http://elmonkey.us:25461/Victor/Victor/91196
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 46 Atlanta" tvg-logo="" group-title="USA",USA | CBS 46 Atlanta
-http://elmonkey.us:25461/Victor/Victor/91197
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBSN" tvg-logo="" group-title="USA",USA | CBSN
 http://elmonkey.us:25461/Victor/Victor/91198
 #EXTINF:-1 tvg-id="" tvg-name="USA | CMT" tvg-logo="" group-title="USA",USA | CMT
 http://elmonkey.us:25461/Victor/Victor/91199
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNN" tvg-logo="" group-title="USA",USA | CNN
-http://elmonkey.us:25461/Victor/Victor/91200
-#EXTINF:-1 tvg-id="" tvg-name="USA | Comedy Central" tvg-logo="" group-title="USA",USA | Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="USA | CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/117546bb55abcea2d811d1dd278d1fdf.png" group-title="USA",USA | CNN
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/480
+#EXTINF:-1 tvg-id="" tvg-name="USA | Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/21ce2e8a7702b1079957fbf5fcf9bd38.png" group-title="USA",USA | Comedy Central
 http://elmonkey.us:25461/Victor/Victor/91201
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cooking Channel" tvg-logo="" group-title="USA",USA | Cooking Channel
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cooking Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c1ab144fcffab497d354511a2649ed8c.png" group-title="USA",USA | Cooking Channel
 http://elmonkey.us:25461/Victor/Victor/91202
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cozi TV" tvg-logo="" group-title="USA",USA | Cozi TV
-http://elmonkey.us:25461/Victor/Victor/91203
 #EXTINF:-1 tvg-id="" tvg-name="USA | CW" tvg-logo="" group-title="USA",USA | CW
 http://elmonkey.us:25461/Victor/Victor/91204
 #EXTINF:-1 tvg-id="" tvg-name="USA | Destination America" tvg-logo="" group-title="USA",USA | Destination America
