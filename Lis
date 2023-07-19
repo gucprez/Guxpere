@@ -1,86 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" group-title="ESPN",Latino | ESPN Deportes
+#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f79d6b3be2794fc6432b81cc6e123c0c.png" group-title="ESPN",Latino | ESPN Deportes
 http://elmonkey.us:25461/Victor/Victor/91046
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="ESPN",DEPORTES HD | ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES HD | ESPN 2 MX
 http://elmonkey.us:25461/Victor/Victor/91049
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 MX" tvg-logo="https://futbol-libre.org/wp-content/uploads/2022/11/espn-3-300x62.png" group-title="ESPN",DEPORTES HD | ESPN 3 MX
 http://elmonkey.us:25461/Victor/Victor/91050
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="ESPN",DEPORTES | ESPN  2  ARG
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES | ESPN  2  ARG
 http://tv.nousiptv.com:8080/Enrique2022/Enrique22/43637
 #EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",SUR: ESPN 3
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/298157
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymphoniclatino.com%2Fjose-reyes-case-study%2Fespn-logo%2F&psig=AOvVaw3qjfgTp2XqvBLalVSs063L&ust=1689823243692000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC82qLomYADFQAAAAAdAAAAABAE" group-title="ESPN",DEPORTES | ESPN 1 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",DEPORTES | ESPN 1 MX
 http://tv.nousiptv.com:8080/Enrique2022/Enrique22/1155892
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="ESPN",DEPORTES | ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES | ESPN 2 MX
 http://elmonkey.us:25461/Victor/Victor/91055
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="https://futbol-libre.org/wp-content/uploads/2022/11/espn-3-300x62.png" group-title="ESPN",DEPORTES | ESPN 3 MX
 http://elmonkey.us:25461/Victor/Victor/91056
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 HD MX" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AESPN_4_logo.svg&psig=AOvVaw2UP95kqeSq_gDvzjviZfxq&ust=1689823306304000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCAyMDomYADFQAAAAAdAAAAABAE" group-title="ESPN",DEPORTES | ESPN 4 HD MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 HD MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="ESPN",DEPORTES | ESPN 4 HD MX
 http://tv.nousiptv.com:8080/Enrique2022/Enrique22/18580
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymphoniclatino.com%2Fjose-reyes-case-study%2Fespn-logo%2F&psig=AOvVaw3qjfgTp2XqvBLalVSs063L&ust=1689823243692000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC82qLomYADFQAAAAAdAAAAABAE" group-title="ESPN",ARG DEP | ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",ARG DEP | ESPN
 http://elmonkey.us:25461/Victor/Victor/91059
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymphoniclatino.com%2Fjose-reyes-case-study%2Fespn-logo%2F&psig=AOvVaw3qjfgTp2XqvBLalVSs063L&ust=1689823243692000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC82qLomYADFQAAAAAdAAAAABAE" group-title="ESPN",ARG DEP | ESPN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",ARG DEP | ESPN 1 HD
 http://elmonkey.us:25461/Victor/Victor/91060
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="ESPN",ARG DEP | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",ARG DEP | ESPN 2
 http://elmonkey.us:25461/Victor/Victor/91061
-#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymphoniclatino.com%2Fjose-reyes-case-study%2Fespn-logo%2F&psig=AOvVaw3qjfgTp2XqvBLalVSs063L&ust=1689823243692000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC82qLomYADFQAAAAAdAAAAABAE" group-title="ESPN",COL DEP | ESPN
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",COL DEP | ESPN
 http://elmonkey.us:25461/Victor/Victor/91067
-#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="ESPN",COL DEP | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",COL DEP | ESPN 2
 http://elmonkey.us:25461/Victor/Victor/91068
 #EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="https://futbol-libre.org/wp-content/uploads/2022/11/espn-3-300x62.png" group-title="ESPN",COL DEP | ESPN 3
 http://elmonkey.us:25461/Victor/Victor/91069
 
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN 3" tvg-logo="" group-title="ESPN",Latino | ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",Latino | ESPN 3
 http://192.99.70.160:25461/Victor/Victor/91045
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="" group-title="ESPN",Latino | ESPN Deportes
+#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f79d6b3be2794fc6432b81cc6e123c0c.png" group-title="ESPN",Latino | ESPN Deportes
 http://192.99.70.160:25461/Victor/Victor/91046
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  4 ARG" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN  4 ARG
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN  4 ARG" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="ESPN",DEPORTES HD | ESPN  4 ARG
 http://192.99.70.160:25461/Victor/Victor/91047
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 1 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",DEPORTES HD | ESPN 1 MX
 http://192.99.70.160:25461/Victor/Victor/91048
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES HD | ESPN 2 MX
 http://192.99.70.160:25461/Victor/Victor/91049
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 MX" tvg-logo="" group-title="ESPN",DEPORTES HD | ESPN 3 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",DEPORTES HD | ESPN 3 MX
 http://192.99.70.160:25461/Victor/Victor/91050
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  1  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  1  ARG
 http://192.99.70.160:25461/Victor/Victor/91051
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  2  ARG
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES | ESPN  2  ARG
 http://192.99.70.160:25461/Victor/Victor/91052
 #EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",SUR: ESPN 3
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/298157
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 1 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",DEPORTES | ESPN 1 MX
 http://192.99.70.160:25461/Victor/Victor/91054
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",DEPORTES | ESPN 2 MX
 http://192.99.70.160:25461/Victor/Victor/91055
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 3 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",DEPORTES | ESPN 3 MX
 http://192.99.70.160:25461/Victor/Victor/91056
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 HD MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 4 HD MX
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4 HD MX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="ESPN",DEPORTES | ESPN 4 HD MX
 http://192.99.70.160:25461/Victor/Victor/91057
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus ARG" tvg-logo="" group-title="ESPN",DEPORTES | Espn Plus ARG
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus ARG" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/de6f7d110fcfa8afba4d305967d885a5.svg" group-title="ESPN",DEPORTES | Espn Plus ARG
 http://192.99.70.160:25461/Victor/Victor/91058
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="" group-title="ESPN",ARG DEP | ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",ARG DEP | ESPN
 http://192.99.70.160:25461/Victor/Victor/91059
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",ARG DEP | ESPN 1 HD
 http://192.99.70.160:25461/Victor/Victor/91060
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",ARG DEP | ESPN 2
 http://192.99.70.160:25461/Victor/Victor/91061
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="" group-title="ESPN",ARG DEP | ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",ARG DEP | ESPN 3
 http://192.99.70.160:25461/Victor/Victor/91062
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 2" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",ARGENTINA | ESPN 2
 http://192.99.70.160:25461/Victor/Victor/91063
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 3" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",ARGENTINA | ESPN 3
 http://192.99.70.160:25461/Victor/Victor/91064
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="" group-title="ESPN",ARGENTINA | ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="ESPN",ARGENTINA | ESPN 4
 http://192.99.70.160:25461/Victor/Victor/91065
-#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="" group-title="ESPN",ARG DEP | ESPN PLUS
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/de6f7d110fcfa8afba4d305967d885a5.svg" group-title="ESPN",ARG DEP | ESPN PLUS
 http://192.99.70.160:25461/Victor/Victor/91066
-#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="" group-title="ESPN",COL DEP | ESPN
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",COL DEP | ESPN
 http://192.99.70.160:25461/Victor/Victor/91067
-#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="" group-title="ESPN",COL DEP | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",COL DEP | ESPN 2
 http://192.99.70.160:25461/Victor/Victor/91068
-#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="" group-title="ESPN",COL DEP | ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="COL DEP | ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",COL DEP | ESPN 3
 http://192.99.70.160:25461/Victor/Victor/91069
-#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN" tvg-logo="" group-title="ESPN",BRA DEP | ESPN
+#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="ESPN",BRA DEP | ESPN
 http://192.99.70.160:25461/Victor/Victor/91070
-#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN 2" tvg-logo="" group-title="ESPN",BRA DEP | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="BRA DEP | ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="ESPN",BRA DEP | ESPN 2
 http://192.99.70.160:25461/Victor/Victor/91071
