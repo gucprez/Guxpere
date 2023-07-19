@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="USA  | ABC" tvg-logo="" group-title="USA",USA  | ABC
-http://elmonkey.us:25461/Victor/Victor/91166
+#EXTINF:-1 tvg-id="" tvg-name="USA  | ABC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6bc280ee2279ce8bb01f39ed7f0e3860.jpg" group-title="USA",USA  | ABC
+http://elmonkey.us:25461/Victor/Victor/91169
 #EXTINF:-1 tvg-id="" tvg-name="USA |  Outside TV" tvg-logo="" group-title="USA",USA |  Outside TV
 http://elmonkey.us:25461/Victor/Victor/91167
-#EXTINF:-1 tvg-id="" tvg-name="USA | A&E" tvg-logo="" group-title="USA",USA | A&E
-http://elmonkey.us:25461/Victor/Victor/91168
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 10 Miami" tvg-logo="" group-title="USA",USA | ABC 10 Miami
+#EXTINF:-1 tvg-id="" tvg-name="USA | A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2840e29d141db3516aa94a31848faf44.png" group-title="USA",USA | A&E
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/2746
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 10 Miami" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/036ebef0609ee2428f53744a35f25022.png" group-title="USA",USA | ABC 10 Miami
 http://elmonkey.us:25461/Victor/Victor/91169
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 13 Houston" tvg-logo="" group-title="USA",USA | ABC 13 Houston
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 13 Houston" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/24bde9e850642325a185a8115d42662d.png" group-title="USA",USA | ABC 13 Houston
 http://elmonkey.us:25461/Victor/Victor/91170
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Chicago" tvg-logo="" group-title="USA",USA | ABC 7 Chicago
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Chicago" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a44067d51d6226659492292ea423a407.png" group-title="USA",USA | ABC 7 Chicago
 http://elmonkey.us:25461/Victor/Victor/91171
 #EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Los Angeles" tvg-logo="" group-title="USA",USA | ABC 7 Los Angeles
 http://elmonkey.us:25461/Victor/Victor/91172
