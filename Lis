@@ -46,8 +46,8 @@ http://192.99.70.160:25461/Victor/Victor/91050
 http://192.99.70.160:25461/Victor/Victor/91051
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  2  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  2  ARG
 http://192.99.70.160:25461/Victor/Victor/91052
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN  3  ARG" tvg-logo="" group-title="ESPN",DEPORTES | ESPN  3  ARG
-http://192.99.70.160:25461/Victor/Victor/91053
+#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="ESPN",SUR: ESPN 3
+http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/298157
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 1 MX
 http://192.99.70.160:25461/Victor/Victor/91054
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="" group-title="ESPN",DEPORTES | ESPN 2 MX
