@@ -8,7 +8,7 @@ http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89124
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89205
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MOVISTAR F1",ES: MOVISTAR FORMULA 1 HD
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89206
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="MOVISTAR F1",[ES] M. FORMULA 1
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title="MOVISTAR F1",[ES] M. FORMULA 1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/125617
 #EXTINF:-1 tvg-id="" tvg-name="| MX| F1 DAZN ESP [HD]" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title="MOVISTAR F1",|MX| F1 DAZN ESP [HD]
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117622
