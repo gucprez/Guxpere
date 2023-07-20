@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: MOVISTAR FORMULA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MOVISTAR F1",ES: MOVISTAR FORMULA 1 FHD
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89091
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: MOVISTAR FORMULA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MOVISTAR F1",ES: MOVISTAR FORMULA 1 FHD
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89124
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: MOVISTAR FORMULA 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MOVISTAR F1",ES: MOVISTAR FORMULA 1 SD
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89205
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: MOVISTAR FORMULA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MOVISTAR F1",ES: MOVISTAR FORMULA 1 HD
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89206
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="♣♦♣------|ES| SPANISH |ES|-----♣♦♣",[ES] M. FORMULA 1
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="MOVISTAR F1",[ES] M. FORMULA 1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/125617
-#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 DAZN ESP [HD]" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title=" ♣♦♣------|MX| MEXICO |MX|-----♣♦♣",| MX| F1 DAZN ESP [HD]
+#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 DAZN ESP [HD]" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title=" MOVISTAR F1",| MX| F1 DAZN ESP [HD]
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117622
-#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 SKY SPORTS UK [HD]" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title=" ♣♦♣------|MX| MEXICO |MX|-----♣♦♣",| MX| F1 SKY SPORTS UK [HD]
+#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 SKY SPORTS UK [HD]" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title=" MOVISTAR F1",| MX| F1 SKY SPORTS UK [HD]
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117623
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="♣♦♣------|UK| UNITED KINGDOM |UK|-----♣♦♣",UK: Sky Sports F1
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MOVISTAR F1",UK: Sky Sports F1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/427484
 
 
