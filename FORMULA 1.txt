@@ -10,9 +10,9 @@ http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89205
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/89206
 #EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="MOVISTAR F1",[ES] M. FORMULA 1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/125617
-#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 DAZN ESP [HD]" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title="MOVISTAR F1",| MX| F1 DAZN ESP [HD]
+#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 DAZN ESP [HD]" tvg-logo="https://brandemia.org/sites/default/files/logo_formula1_nuevo.jpg" group-title="MOVISTAR F1",|MX| F1 DAZN ESP [HD]
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117622
-#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 SKY SPORTS UK [HD]" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title="MOVISTAR F1",| MX| F1 SKY SPORTS UK [HD]
+#EXTINF:-1 tvg-id="" tvg-name="| MX| F1 SKY SPORTS UK [HD]" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title="MOVISTAR F1",|MX| F1 SKY SPORTS UK [HD]
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117623
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MOVISTAR F1",UK: Sky Sports F1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/427484
