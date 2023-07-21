@@ -1,54 +1,6 @@
 #EXTINF
-#EXTINF:-1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://elmonkey.us:25461/Victor/Victor/6
-#EXTINF:-1 tvg-id="I33.90898.schedulesdirect.org" tvg-name="A3S" tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" group-title="Entretenimiento",A3S
-http://elmonkey.us:25461/Victor/Victor/13
-#EXTINF:-1 tvg-id="I9.15384.schedulesdirect.org" tvg-name="ADN 40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="Colombia",ADN 40
-http://elmonkey.us:25461/Victor/Victor/14
-#EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="Entretenimiento",AMC
-http://elmonkey.us:25461/Victor/Victor/16
 #EXTINF:-1 tvg-id="I21.96445.schedulesdirect.org" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="Cultura",ANIMAL PLANET
 http://elmonkey.us:25461/Victor/Victor/17
-#EXTINF:-1 tvg-id="I458.16800.schedulesdirect.org" tvg-name="ANTENA 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="Entretenimiento",ANTENA 3
-http://elmonkey.us:25461/Victor/Victor/18
-#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Entretenimiento",AXN
-http://elmonkey.us:25461/Victor/Victor/19
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="Entretenimiento",AXN WHITE
-http://elmonkey.us:25461/Victor/Victor/20
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINEMA PREMIUM",AZ CINEMA
-http://elmonkey.us:25461/Victor/Victor/22
-#EXTINF:-1 tvg-id="I164.61404.schedulesdirect.org" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="Mexico",AZ CORAZON
-http://elmonkey.us:25461/Victor/Victor/23
-#EXTINF:-1 tvg-id="I432.79968.schedulesdirect.org" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="Mexico",AZ MUNDO
-http://elmonkey.us:25461/Victor/Victor/24
-#EXTINF:-1 tvg-id="I103.47604.schedulesdirect.org" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",AZTECA 7
-http://elmonkey.us:25461/Victor/Victor/26
-#EXTINF:-1 tvg-id="I433.54867.schedulesdirect.org" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="Mexico",BANDAMAX
-http://elmonkey.us:25461/Victor/Victor/27
-#EXTINF:-1 tvg-id="I298.21883.schedulesdirect.org" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="KIDS",BOOMERANG
-http://elmonkey.us:25461/Victor/Victor/30
-#EXTINF:-1 tvg-id="I463.36139.schedulesdirect.org" tvg-name="CANAL ONCE" tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="Mexico",CANAL ONCE
-http://elmonkey.us:25461/Victor/Victor/31
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg" group-title="Mexico",CANAL 5
-http://elmonkey.us:25461/Victor/Victor/32
-#EXTINF:-1 tvg-id="I390.16461.schedulesdirect.org" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="Mexico",CANAL DE LAS ESTRELLAS
-http://elmonkey.us:25461/Victor/Victor/33
-#EXTINF:-1 tvg-id="I417.39719.schedulesdirect.org" tvg-name="CARACOL" tvg-logo="https://cdn.colombia.com/sdi/2021/01/15/caracol-television-primer-lugar-ranking-de-audiencia-2021-883847.jpg" group-title="Colombia",CARACOL
-http://elmonkey.us:25461/Victor/Victor/34
-#EXTINF:-1 tvg-id="I113.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
-http://elmonkey.us:25461/Victor/Victor/35
-#EXTINF:-1 tvg-id="I125.16435.schedulesdirect.org" tvg-name="CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA PREMIUM",CINECANAL
-http://elmonkey.us:25461/Victor/Victor/36
-#EXTINF:-1 tvg-id="I121.15296.schedulesdirect.org" tvg-name="CINELATINO" tvg-logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg" group-title="CINEMA PREMIUM",CINELATINO
-http://elmonkey.us:25461/Victor/Victor/37
-#EXTINF:-1 tvg-id="I523.59965.schedulesdirect.org" tvg-name="CINEMAX" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="CINEMA PREMIUM",CINEMAX
-http://elmonkey.us:25461/Victor/Victor/38
-#EXTINF:-1 tvg-id="I419.17054.schedulesdirect.org" tvg-name="CNN ESPAÑOL" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/PCiKhi.png" group-title="Noticias",CNN ESPAÑOL
-http://elmonkey.us:25461/Victor/Victor/39
-#EXTINF:-1 tvg-id="I161.74906.schedulesdirect.org" tvg-name="COMEDY CENTRAL" tvg-logo="https://highnessdottv.files.wordpress.com/2016/11/comedy_central_logo-black.jpg" group-title="Entretenimiento",COMEDY CENTRAL
-http://elmonkey.us:25461/Victor/Victor/40
-#EXTINF:-1 tvg-id="I170.74016.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="CINEMA PREMIUM",DE PELICULA
-http://elmonkey.us:25461/Victor/Victor/41
 #EXTINF:-1 tvg-id="I173.96307.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="Cultura",DISCOVERY CHANNEL
 http://elmonkey.us:25461/Victor/Victor/42
 #EXTINF:-1 tvg-id="I359.111055.schedulesdirect.org" tvg-name="HGTV" tvg-logo="https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/hgtv-live-hero.jpg" group-title="Cultura",HGTV
@@ -61,217 +13,27 @@ http://elmonkey.us:25461/Victor/Victor/45
 http://elmonkey.us:25461/Victor/Victor/46
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura",DISCOVERY ID
 http://elmonkey.us:25461/Victor/Victor/47
-#EXTINF:-1 tvg-id="I183.45955.schedulesdirect.org" tvg-name="DISCOVERY KIDS +" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="KIDS",DISCOVERY KIDS +
-http://elmonkey.us:25461/Victor/Victor/48
 #EXTINF:-1 tvg-id="I184.46610.schedulesdirect.org" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",DISCOVERY SCIENCE
 http://elmonkey.us:25461/Victor/Victor/49
 #EXTINF:-1 tvg-id="I186.65940.schedulesdirect.org" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Cultura",DISCOVERY THEATER
 http://elmonkey.us:25461/Victor/Victor/50
 #EXTINF:-1 tvg-id="I650.74420.schedulesdirect.org" tvg-name="TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Cultura",TLC
 http://elmonkey.us:25461/Victor/Victor/51
-#EXTINF:-1 tvg-id="I187.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Entretenimiento",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="I187.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Cultura",DISCOVERY TURBO
 http://elmonkey.us:25461/Victor/Victor/52
 #EXTINF:-1 tvg-id="I189.66488.schedulesdirect.org" tvg-name="DISCOVERY WORLD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="Cultura",DISCOVERY WORLD
 http://elmonkey.us:25461/Victor/Victor/53
-#EXTINF:-1 tvg-id="I190.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="KIDS",DISNEY CHANNEL
-http://elmonkey.us:25461/Victor/Victor/54
-#EXTINF:-1 tvg-id="I289.74796.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="https://tvguide1.cbsistatic.com/i/r/2012/01/09/c1b0244d-3161-4fb1-b84c-2015df8542e1/resize/300x206/64a208d9f1b4287fef75691852500699/120109disney-junior-logo1.jpg" group-title="KIDS",DISNEY JR
-http://elmonkey.us:25461/Victor/Victor/55
-#EXTINF:-1 tvg-id="I195.16563.schedulesdirect.org" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="KIDS",DISNEY XD
-http://elmonkey.us:25461/Victor/Victor/56
-#EXTINF:-1 tvg-id="I197.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="Entretenimiento",DISTRITO COMEDIA
-http://elmonkey.us:25461/Victor/Victor/57
-#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org" tvg-name="E!" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="Entretenimiento",E!
-http://elmonkey.us:25461/Victor/Victor/58
-#EXTINF:-1 tvg-id="" tvg-name="EL GARAGE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Entretenimiento",EL GARAGE
-http://elmonkey.us:25461/Victor/Victor/59
-#EXTINF:-1 tvg-id="I239.45910.schedulesdirect.org" tvg-name="EL GOURMET" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Entretenimiento",EL GOURMET
-http://elmonkey.us:25461/Victor/Victor/60
-#EXTINF:-1 tvg-id="I442.65064.schedulesdirect.org" tvg-name="ESTRELLA TV" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="Entretenimiento",ESTRELLA TV
-http://elmonkey.us:25461/Victor/Victor/66
-#EXTINF:-1 tvg-id="I281.91919.schedulesdirect.org" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entretenimiento",FOOD NETWORK
-http://elmonkey.us:25461/Victor/Victor/67
-#EXTINF:-1 tvg-id="I285.72313.schedulesdirect.org" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="Noticias",FORO TV
-http://elmonkey.us:25461/Victor/Victor/68
-#EXTINF:-1 tvg-id="I288.101732.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Entretenimiento",FOX
-http://elmonkey.us:25461/Victor/Victor/69
-#EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="FOX PREMIUM ACTION (Star Action)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM ACTION (Star Action)
-http://elmonkey.us:25461/Victor/Victor/70
-#EXTINF:-1 tvg-id="I520.71662.schedulesdirect.org" tvg-name="FOX PREMIUM CINEMA (Star Cinema)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM CINEMA (Star Cinema)
-http://elmonkey.us:25461/Victor/Victor/71
-#EXTINF:-1 tvg-id="I522.44028.schedulesdirect.org" tvg-name="FOX PREMIUM CLASSIC (Star Classic)" tvg-logo="https://2.bp.blogspot.com/-Tdwk5G3WZpI/XCXFWTCaQ_I/AAAAAAAAB6E/BTnK5v3cdhM3eL-ZNCOsd2ygfA14w2fDwCLcBGAs/s320/logo_foxclassics.png" group-title="CINEMA PREMIUM",FOX PREMIUM CLASSIC (Star Classic)
-http://elmonkey.us:25461/Victor/Victor/72
-#EXTINF:-1 tvg-id="I526.81294.schedulesdirect.org" tvg-name="FOX PREMIUM FAMILY (Star Fun)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM FAMILY (Star Fun)
-http://elmonkey.us:25461/Victor/Victor/73
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Entretenimiento",FOX LIFE
-http://elmonkey.us:25461/Victor/Victor/74
-#EXTINF:-1 tvg-id="I530.58833.schedulesdirect.org" tvg-name="FOX PREMIUM MOVIES (Star Hits)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM MOVIES (Star Hits)
-http://elmonkey.us:25461/Victor/Victor/75
-#EXTINF:-1 tvg-id="I650.18812.schedulesdirect.org" tvg-name="STAR SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="Entretenimiento",STAR SERIES
-http://elmonkey.us:25461/Victor/Victor/76
-#EXTINF:-1 tvg-id="I313.46442.schedulesdirect.org" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Entretenimiento",FX
-http://elmonkey.us:25461/Victor/Victor/80
-#EXTINF:-1 tvg-id="I318.14988.schedulesdirect.org" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Entretenimiento",FXM
-http://elmonkey.us:25461/Victor/Victor/81
-#EXTINF:-1 tvg-id="I404.10222.schedulesdirect.org" tvg-name="GALA TV" tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="Entretenimiento",GALA TV
-http://elmonkey.us:25461/Victor/Victor/82
-#EXTINF:-1 tvg-id="I326.24459.schedulesdirect.org" tvg-name="GLITZ" tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="Entretenimiento",GLITZ
-http://elmonkey.us:25461/Victor/Victor/83
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN EDGE
-http://elmonkey.us:25461/Victor/Victor/85
-#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="CINEMA PREMIUM",GOLDEN PLUS
-http://elmonkey.us:25461/Victor/Victor/86
-#EXTINF:-1 tvg-id="I339.84823.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="CINEMA PREMIUM",HBO
-http://elmonkey.us:25461/Victor/Victor/87
-#EXTINF:-1 tvg-id="I356.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CINEMA PREMIUM",HBO 2
-http://elmonkey.us:25461/Victor/Victor/88
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINEMA PREMIUM",HBO FAMILY
-http://elmonkey.us:25461/Victor/Victor/89
-#EXTINF:-1 tvg-id="I635.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINEMA PREMIUM",HBO PLUS
-http://elmonkey.us:25461/Victor/Victor/90
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Cultura",HISTORY 2
 http://elmonkey.us:25461/Victor/Victor/91
 #EXTINF:-1 tvg-id="I443.43362.schedulesdirect.org" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Cultura",HISTORY CHANNEL
 http://elmonkey.us:25461/Victor/Victor/92
-#EXTINF:-1 tvg-id="I430.62161.schedulesdirect.org" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="Entretenimiento",HOLA TV
-http://elmonkey.us:25461/Victor/Victor/93
-#EXTINF:-1 tvg-id="I375.101096.schedulesdirect.org" tvg-name="IMAGEN " tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="Mexico",IMAGEN 
-http://elmonkey.us:25461/Victor/Victor/94
-#EXTINF:-1 tvg-id="I395.90682.schedulesdirect.org" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Entretenimiento",LIFETIME
-http://elmonkey.us:25461/Victor/Victor/95
-#EXTINF:-1 tvg-id="I399.17457.schedulesdirect.org" tvg-name="MAS CHIC" tvg-logo="https://pbs.twimg.com/profile_images/616231967407906816/hFYp8Jq9_400x400.jpg" group-title="Entretenimiento",MAS CHIC
-http://elmonkey.us:25461/Victor/Victor/96
-#EXTINF:-1 tvg-id="I354.34887.schedulesdirect.org" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINEMA PREMIUM",HBO XTREME
-http://elmonkey.us:25461/Victor/Victor/97
-#EXTINF:-1 tvg-id="I927.68301.schedulesdirect.org" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINEMA PREMIUM",HBO POP
-http://elmonkey.us:25461/Victor/Victor/98
-#EXTINF:-1 tvg-id="" tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="Mexico",MEXIQUENSE
-http://elmonkey.us:25461/Victor/Victor/99
-#EXTINF:-1 tvg-id="I428.91505.schedulesdirect.org" tvg-name="MULTIMEDIOS" tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="Noticias",MULTIMEDIOS
-http://elmonkey.us:25461/Victor/Victor/100
-#EXTINF:-1 tvg-id="I437.105877.schedulesdirect.org" tvg-name="NAT GEO KIDS" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_1200x675/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="KIDS",NAT GEO KIDS
-http://elmonkey.us:25461/Victor/Victor/101
 #EXTINF:-1 tvg-id="I435.72449.schedulesdirect.org" tvg-name="NAT GEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="Cultura",NAT GEO MUNDO
 http://elmonkey.us:25461/Victor/Victor/102
 #EXTINF:-1 tvg-id="I443.67590.schedulesdirect.org" tvg-name="NAT GEO WILD" tvg-logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg" group-title="Cultura",NAT GEO WILD
 http://elmonkey.us:25461/Victor/Victor/103
 #EXTINF:-1 tvg-id="I442.88533.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://aweita.cronosmedia.glr.pe/migration/imagen/2020/04/15/noticia-1586989225-natgeo.jpg" group-title="Cultura",NATIONAL GEOGRAPHIC
 http://elmonkey.us:25461/Victor/Victor/104
-#EXTINF:-1 tvg-id="I453.101731.schedulesdirect.org" tvg-name="NICK" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="KIDS",NICK
-http://elmonkey.us:25461/Victor/Victor/105
-#EXTINF:-1 tvg-id="I301.19211.schedulesdirect.org" tvg-name=" NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="KIDS", NICK JR
-http://elmonkey.us:25461/Victor/Victor/106
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://kafkadesk.org/wp-content/uploads/2019/09/nicktoons-czech-republic.jpg" group-title="KIDS",NICKTOONS
-http://elmonkey.us:25461/Victor/Victor/107
-#EXTINF:-1 tvg-id="I444.61776.schedulesdirect.org" tvg-name="PASIONES" tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg" group-title="Entretenimiento",PASIONES
-http://elmonkey.us:25461/Victor/Victor/108
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entretenimiento",RCN
-http://elmonkey.us:25461/Victor/Victor/109
-#EXTINF:-1 tvg-id="I318.21868.schedulesdirect.org" tvg-name="SHOWTIME" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="Entretenimiento",SHOWTIME
-http://elmonkey.us:25461/Victor/Victor/111
-#EXTINF:-1 tvg-id="I108.19385.schedulesdirect.org" tvg-name="SONY" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" group-title="Entretenimiento",SONY
-http://elmonkey.us:25461/Victor/Victor/112
-#EXTINF:-1 tvg-id="I510.60801.schedulesdirect.org" tvg-name="SPACE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="CINEMA PREMIUM",SPACE
-http://elmonkey.us:25461/Victor/Victor/113
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png" group-title="CINEMA PREMIUM",STARZ
-http://elmonkey.us:25461/Victor/Victor/114
-#EXTINF:-1 tvg-id="I426.102905.schedulesdirect.org" tvg-name="STARZ ENCORE" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINEMA PREMIUM",STARZ ENCORE
-http://elmonkey.us:25461/Victor/Victor/115
-#EXTINF:-1 tvg-id="I625.29017.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="CINEMA PREMIUM",STUDIO UNIVERSAL
-http://elmonkey.us:25461/Victor/Victor/116
-#EXTINF:-1 tvg-id="I239.16108.schedulesdirect.org" tvg-name="Sundance" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Sundance-TV.png" group-title="Entretenimiento",Sundance
-http://elmonkey.us:25461/Victor/Victor/117
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="CINEMA PREMIUM",SYFY
-http://elmonkey.us:25461/Victor/Victor/118
-#EXTINF:-1 tvg-id="I629.75073.schedulesdirect.org" tvg-name="TBS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png" group-title="Entretenimiento",TBS
-http://elmonkey.us:25461/Victor/Victor/119
-#EXTINF:-1 tvg-id="I630.19246.schedulesdirect.org" tvg-name="TCM" tvg-logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg" group-title="CINEMA PREMIUM",TCM
-http://elmonkey.us:25461/Victor/Victor/120
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png" group-title="MUSIC",TELEHIT
-http://elmonkey.us:25461/Victor/Victor/122
-#EXTINF:-1 tvg-id="" tvg-name="13I" tvg-logo="https://4.bp.blogspot.com/-V6aDzu13DkE/VeT2yGjAcJI/AAAAAAAAIkE/KCKLjxl2ZR8/s1600/13i.png" group-title="Chile",13I
-http://elmonkey.us:25461/Victor/Victor/221
-#EXTINF:-1 tvg-id="" tvg-name="24HORAS" tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/07/24-horas-e1532701395821.jpg" group-title="Chile",24HORAS
-http://elmonkey.us:25461/Victor/Victor/222
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/478px-Canal_13_%28Chile%29_logo.svg.png" group-title="Chile",CANAL 13
-http://elmonkey.us:25461/Victor/Victor/223
-#EXTINF:-1 tvg-id="" tvg-name="CDF" tvg-logo="https://farodeportivo.s3.sa-east-1.amazonaws.com/wp-content/uploads/2017/11/15172014/Pablo-Milad-CDF.png" group-title="Chile",CDF
-http://elmonkey.us:25461/Victor/Victor/224
-#EXTINF:-1 tvg-id="" tvg-name="CDF BASICO" tvg-logo="https://3.bp.blogspot.com/-BC2gESZviJ8/VBO0QbFfPsI/AAAAAAAACzc/hOChWD8tlFk/s1600/CDF%2BB%C3%A1sico.png" group-title="Chile",CDF BASICO
-http://elmonkey.us:25461/Victor/Victor/225
-#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN" tvg-logo="https://www.directv.cl/img_chile/concursos/cdf_logo.jpg" group-title="Chile",CDF PREMIUN
-http://elmonkey.us:25461/Victor/Victor/226
-#EXTINF:-1 tvg-id="" tvg-name="CDO BASICO" tvg-logo="https://cdn-w.zapping.live/img/chlogos/cdobasico.jpg" group-title="Chile",CDO BASICO
-http://elmonkey.us:25461/Victor/Victor/227
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png" group-title="Chile",CDO PREMIUN
-http://elmonkey.us:25461/Victor/Victor/228
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://brandemia.org/sites/default/files/logo_chilevision.jpg" group-title="Chile",CHILEVISION
-http://elmonkey.us:25461/Victor/Victor/229
-#EXTINF:-1 tvg-id="" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",ETC TV
-http://elmonkey.us:25461/Victor/Victor/230
-#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="Chile",LA RED
-http://elmonkey.us:25461/Victor/Victor/231
-#EXTINF:-1 tvg-id="" tvg-name="PINGUINO TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-pinguino-tv-1219.jpg" group-title="Chile",PINGUINO TV
-http://elmonkey.us:25461/Victor/Victor/235
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | CINE SUREÑO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINEMA PREMIUM",USA -L | CINE SUREÑO
-http://elmonkey.us:25461/Victor/Victor/237
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | TOP CINE " tvg-logo="https://bandnatal.files.wordpress.com/2012/02/top-cine.jpg" group-title="CINEMA PREMIUM",USA -L | TOP CINE 
-http://elmonkey.us:25461/Victor/Victor/238
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | JUNTOS" tvg-logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg" group-title="Latinos | USA",USA -L | JUNTOS
-http://elmonkey.us:25461/Victor/Victor/239
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | HORRORIFY" tvg-logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg" group-title="CINEMA PREMIUM",USA -L | HORRORIFY
-http://elmonkey.us:25461/Victor/Victor/240
-#EXTINF:-1 tvg-id="I334.80596.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN PREMIER
-http://elmonkey.us:25461/Victor/Victor/245
-#EXTINF:-1 tvg-id="I352.80120.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINEMA PREMIUM",HBO SIGNATURE
-http://elmonkey.us:25461/Victor/Victor/246
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM COMEDY
-http://elmonkey.us:25461/Victor/Victor/247
-#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg" group-title="CINEMA PREMIUM",Universal Channel
-http://elmonkey.us:25461/Victor/Victor/248
 #EXTINF:-1 tvg-id="I884.44479.schedulesdirect.org" tvg-name="CGTN ESPANOL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Mhwckj1mL.jpg" group-title="Cultura",CGTN ESPANOL
 http://elmonkey.us:25461/Victor/Victor/249
-#EXTINF:-1 tvg-id="I346.70081.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINEMA PREMIUM",HBO MUNDI
-http://elmonkey.us:25461/Victor/Victor/250
-#EXTINF:-1 tvg-id="I470.91029.schedulesdirect.org" tvg-name="Paramount" tvg-logo="http://thedesk.net/wp-content/uploads/2020/08/paramount-concept-slate.png" group-title="CINEMA PREMIUM",Paramount
-http://elmonkey.us:25461/Victor/Victor/251
-#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILMS ART" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="CINEMA PREMIUM",FILMS ART
-http://elmonkey.us:25461/Victor/Victor/252
-#EXTINF:-1 tvg-id="I417.39719.schedulesdirect.org" tvg-name="Caracol." tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="Colombia",Caracol.
-http://elmonkey.us:25461/Victor/Victor/254
-#EXTINF:-1 tvg-id="" tvg-name="RCN." tvg-logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg" group-title="Colombia",RCN.
-http://elmonkey.us:25461/Victor/Victor/255
-#EXTINF:-1 tvg-id="I459.61988.schedulesdirect.org" tvg-name="NTN24" tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="Noticias",NTN24
-http://elmonkey.us:25461/Victor/Victor/256
-#EXTINF:-1 tvg-id="I459.61988.schedulesdirect.org" tvg-name="NTN24." tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="Colombia",NTN24.
-http://elmonkey.us:25461/Victor/Victor/257
-#EXTINF:-1 tvg-id="I214.10125.schedulesdirect.org" tvg-name="CITY TV" tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="Entretenimiento",CITY TV
-http://elmonkey.us:25461/Victor/Victor/260
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV." tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="Colombia",CITY TV.
-http://elmonkey.us:25461/Victor/Victor/261
-#EXTINF:-1 tvg-id="" tvg-name="EL TIEMPO." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="Colombia",EL TIEMPO.
-http://elmonkey.us:25461/Victor/Victor/263
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://img.new.livestream.com/accounts/00000000008fda44/dac7e231-0eea-489f-8123-7eb57fe1aef7.jpg" group-title="Colombia",TELEANTIOQUIA
-http://elmonkey.us:25461/Victor/Victor/264
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="Colombia",TELECARIBE
-http://elmonkey.us:25461/Victor/Victor/265
-#EXTINF:-1 tvg-id="" tvg-name="TELETICA 7" tvg-logo="https://www.gentecoyol.com/wp-content/uploads/2019/05/48383248_2069699959719496_3237791311184527360_n.png" group-title="Costa Rica",TELETICA 7
-http://elmonkey.us:25461/Victor/Victor/269
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/REP6_1999.png/640px-REP6_1999.png" group-title="Costa Rica",REPRETEL 6 
-http://elmonkey.us:25461/Victor/Victor/270
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 11 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Rep11Logo.png" group-title="Costa Rica",REPRETEL 11 
-http://elmonkey.us:25461/Victor/Victor/271
-#EXTINF:-1 tvg-id="" tvg-name="TELEUNO" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_teleuno1998.jpg" group-title="Costa Rica",TELEUNO
-http://elmonkey.us:25461/Victor/Victor/272
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 14 TV SUR" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="Costa Rica",CANAL 14 TV SUR
-http://elmonkey.us:25461/Victor/Victor/273
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://plataformas.news/online/nota_futv-anuncio-su-lanzamiento-en-tv-paga-.jpg" group-title="Costa Rica",FUTV
-http://elmonkey.us:25461/Victor/Victor/274
-#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/hn_cubavision_m.png" group-title="Cuba",CUBAVISION INTERNACIONAL
-http://elmonkey.us:25461/Victor/Victor/276
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="Cuba",AMERICA TV
-http://elmonkey.us:25461/Victor/Victor/277
-#EXTINF:-1 tvg-id="" tvg-name="CUBAPLAY" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="Cuba",CUBAPLAY
-http://elmonkey.us:25461/Victor/Victor/279
 #EXTINF:-1 tvg-id="I421.46610.schedulesdirect.org" tvg-name="Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",Discovery Science
 http://elmonkey.us:25461/Victor/Victor/280
