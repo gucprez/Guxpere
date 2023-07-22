@@ -54,6 +54,8 @@ https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1981146927.m3u8
 https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Rep.Dom",Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="BellaVision" tvg-logo="https://1.bp.blogspot.com/-8C8mwrosXWU/Xl3ZcjaTkwI/AAAAAAAAr5Q/9E2KOKeqtdUgYxFH4NVXvq4lqTv3sMcPgCLcBGAsYHQ/w77-h90/BellevisionHD.png" group-title="Rep.Dom",BellaVision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id="CaminoRealTV.do" tvg-logo="https://i.imgur.com/2GAEWhn.png" group-title="Rep.Dom",Camino Real TV (720p)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Rep.Dom",Canal 4 RD
