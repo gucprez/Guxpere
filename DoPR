@@ -219,8 +219,6 @@ https://tunzilla.com/http://paz.sytes.net:32769/memfs/c6104e26-780f-4d57-b9b2-9f
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-id="TeleOriental.do" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="Rep.Dom",Tele Oriental (720p)
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
-#EXTINF:-1 tvg-id="Telealtura.do" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="Rep.Dom",Telealtura (720p)
-https://pacific.direcnode.com:3250/live/telealturalive.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Rep.Dom",Telecanal 28 (360p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Rep.Dom",TeleCibao (720p) [Not 24/7]
@@ -238,7 +236,7 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Rep.Dom",Telenord Canal 10 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenovisa43.do" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Rep.Dom",Telenovisa 43
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
+https://tunzilla.com/http://streamatlantistv.ddns.net:8081/telenovisa43/telenovisa43/chunks.m3u8?nimblesessionid=806368
 #EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="Rep.Dom",TeleRadioNorte (720p)
 https://angelistic.live:3785/live/tvoficiallive.m3u8
 #EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="Rep.Dom",Telesantodomingo
@@ -246,11 +244,9 @@ https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Rep.Dom",Telesistema (480p)
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/49438
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Rep.Dom",TeleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 #EXTINF:-1 tvg-id="TelesurCanal10.do" tvg-logo="https://i.imgur.com/qsxaOFq.png" group-title="Rep.Dom",Telesur Canal 10 (720p)
 https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Rep.Dom",Teletur
-https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="Rep.Dom",Teleunion (480p) [Not 24/7]
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleuniverso.do" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="Rep.Dom",Teleuniverso
@@ -274,6 +270,7 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="TVMontanaCanal10.do" tvg-logo="https://i.imgur.com/Wtrs49C.png" group-title="Rep.Dom",TV Montaña Canal 10 (1080p)
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlata.do" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Rep.Dom",TV Plata (720p)
+https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w222145709.m3u8
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Rep.Dom",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
