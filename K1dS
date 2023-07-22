@@ -27,5 +27,5 @@ http://elmonkey.us:25461/Victor/Victor/378
 http://elmonkey.us:25461/Victor/Victor/379
 #EXTINF:-1 tvg-id="babytv.us" tvg-name="BABY TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="KIDS",BABY TV
 http://elmonkey.us:25461/Victor/Victor/380
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 tvg-id="I113.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/184
