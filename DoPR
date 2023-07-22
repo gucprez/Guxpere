@@ -78,6 +78,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/p
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1689993509&e=1689994109&h=704469292310f747f585ed2c328102b7
 #EXTINF:-1 tvg-id="CHinolaTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-294x165-FFFFFF.jpg" group-title="Rep.Dom",ChinolaTV (720p)
 https://streaming.ath.cx:1936/chinolatv/chinolatv/chunklist_w179933490.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTV" tvg-logo="https://3.bp.blogspot.com/-1e0viy-XtK8/XYugidQtXhI/AAAAAAAAoBI/yv7hogt4R3EIPJHQ5zs7WI5PRSMrGV2rACLcBGAsYHQ/s200/Cotubanama.jpg" group-title="Rep.Dom",CotubanamaTV (720p)
+https://rdn.essastream.com:3539/live/cotubanamatvlive.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Rep.Dom",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CibaenaTV.do" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="Rep.Dom",Cibaeña TV (720p)
