@@ -37,3 +37,13 @@ http://elmonkey.us:25461/Victor/Victor/104
 http://elmonkey.us:25461/Victor/Victor/249
 #EXTINF:-1 tvg-id="I421.46610.schedulesdirect.org" tvg-name="Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",Discovery Science
 http://elmonkey.us:25461/Victor/Victor/280
+#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY NORTE " tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="Cultura",CUL | HISTORY NORTE 
+http://svtv.xyz:8080/JaimeE/5KmK9SA/31056
+#EXTINF:-1 tvg-id="" tvg-name="CUL | EL GOURMET " tvg-logo="http://svtv.xyz:8000/images/1c521cacf9c00df7a9142c8cfb8d6384.png" group-title="Cultura",CUL | EL GOURMET 
+http://svtv.xyz:8080/JaimeE/5KmK9SA/31065
+#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY SUR 2 " tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="Cultura",CUL | HISTORY SUR 2 
+http://svtv.xyz:8080/JaimeE/5KmK9SA/287607
+#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO " tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="Cultura",CUL | NATGEO 
+http://svtv.xyz:8080/JaimeE/5KmK9SA/287613
+#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET " tvg-logo="http://svtv.xyz:8000/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="Cultura",CUL | ANIMAL PLANET 
+
