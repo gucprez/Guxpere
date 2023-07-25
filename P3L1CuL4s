@@ -6,12 +6,6 @@ http://192.99.70.160:25461/Victor/Victor/88
 http://192.99.70.160:25461/Victor/Victor/89
 #EXTINF:-1 tvg-id="I635.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cinema Premium",HBO PLUS
 http://192.99.70.160:25461/Victor/Victor/90
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY" tvg-logo="" group-title="Cinema Premium",US: HBO COMEDY
-http://svtv.xyz:8080/JaimeE/5KmK9SA/393420
-#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="" group-title="Cinema Premium",US: SONY MOVIE CHANNEL
-http://svtv.xyz:8080/JaimeE/5KmK9SA/393418
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO LATINO" tvg-logo="" group-title="Cinema Premium",US: HBO LATINO
-http://svtv.xyz:8080/JaimeE/5KmK9SA/393421
 #EXTINF:-1 tvg-id="I288.101732.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Cinema Premium",FOX
 http://192.99.70.160:25461/Victor/Victor/69
 #EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="FOX PREMIUM ACTION (Star Action)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="Cinema Premium",FOX PREMIUM ACTION (Star Action)
