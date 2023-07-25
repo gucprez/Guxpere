@@ -269,8 +269,9 @@ https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="TVMontanaCanal10.do" tvg-logo="https://i.imgur.com/Wtrs49C.png" group-title="Rep.Dom",TV Montaña Canal 10 (1080p)
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlata.do" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Rep.Dom",TV Plata (720p)
 https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w222145709.m3u8
+#EXTINF:-1 tvg-id="TVPlata.do" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Rep.Dom",TV Plata (720p)
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1534196360.m3u8
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Rep.Dom",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
