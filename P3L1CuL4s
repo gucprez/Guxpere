@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-id="I339.84823.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="Cinema Premium",HBO
+http://192.99.70.160:25461/Victor/Victor/87
+#EXTINF:-1 tvg-id="I356.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="Cinema Premium",HBO 2
+http://192.99.70.160:25461/Victor/Victor/88
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cinema Premium",HBO FAMILY
+http://192.99.70.160:25461/Victor/Victor/89
+#EXTINF:-1 tvg-id="I635.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cinema Premium",HBO PLUS
+http://192.99.70.160:25461/Victor/Victor/90
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY" tvg-logo="" group-title="Cinema Premium",US: HBO COMEDY
+http://svtv.xyz:8080/JaimeE/5KmK9SA/393420
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO LATINO" tvg-logo="" group-title="Cinema Premium",US: 
+#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="" group-title="Cinema Premium",US: SONY MOVIE CHANNEL
+http://svtv.xyz:8080/JaimeE/5KmK9SA/393418
