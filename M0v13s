@@ -6,23 +6,7 @@ http://192.99.70.160:25461/Victor/Victor/88
 http://192.99.70.160:25461/Victor/Victor/89
 #EXTINF:-1 tvg-id="I635.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cinema Premium",HBO PLUS
 http://192.99.70.160:25461/Victor/Victor/90
-#EXTINF:-1 tvg-id="I288.101732.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Cinema Premium",FOX
-http://192.99.70.160:25461/Victor/Victor/69
-#EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="FOX PREMIUM ACTION (Star Action)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="Cinema Premium",FOX PREMIUM ACTION (Star Action)
-http://192.99.70.160:25461/Victor/Victor/70
-#EXTINF:-1 tvg-id="I520.71662.schedulesdirect.org" tvg-name="FOX PREMIUM CINEMA (Star Cinema)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="Cinema Premium",FOX PREMIUM CINEMA (Star Cinema)
-http://192.99.70.160:25461/Victor/Victor/71
-#EXTINF:-1 tvg-id="I522.44028.schedulesdirect.org" tvg-name="FOX PREMIUM CLASSIC (Star Classic)" tvg-logo="https://2.bp.blogspot.com/-Tdwk5G3WZpI/XCXFWTCaQ_I/AAAAAAAAB6E/BTnK5v3cdhM3eL-ZNCOsd2ygfA14w2fDwCLcBGAs/s320/logo_foxclassics.png" group-title="Cinema Premium",FOX PREMIUM CLASSIC (Star Classic)
-http://192.99.70.160:25461/Victor/Victor/72
-#EXTINF:-1 tvg-id="I526.81294.schedulesdirect.org" tvg-name="FOX PREMIUM FAMILY (Star Fun)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="Cinema Premium",FOX PREMIUM FAMILY (Star Fun)
-http://192.99.70.160:25461/Victor/Victor/73
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Cinema Premium",FOX LIFE
-http://192.99.70.160:25461/Victor/Victor/74
-#EXTINF:-1 tvg-id="I530.58833.schedulesdirect.org" tvg-name="FOX PREMIUM MOVIES (Star Hits)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png" group-title="Cinema Premium",FOX PREMIUM MOVIES (Star Hits)
-http://192.99.70.160:25461/Victor/Victor/75
-#EXTINF:-1 tvg-id="I650.18812.schedulesdirect.org" tvg-name="STAR SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="Cinema Premium",STAR SERIES
-http://192.99.70.160:25461/Victor/Victor/76
-#EXTINF:-1 tvg-id="I313.46442.schedulesdirect.org" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Cinema Premium",FX
-http://192.99.70.160:25461/Victor/Victor/80
-#EXTINF:-1 tvg-id="I318.14988.schedulesdirect.org" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Cinema Premium",FXM
-http://192.99.70.160:25461/Victor/Victor/81
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="Cinema Premium",GOLDEN EDGE
+http://192.99.70.160:25461/Victor/Victor/85
+#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="Cinema Premium",GOLDEN PLUS
+http://192.99.70.160:25461/Victor/Victor/86
