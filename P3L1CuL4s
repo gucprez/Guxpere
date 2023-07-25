@@ -11,3 +11,11 @@ http://svtv.xyz:8080/JaimeE/5KmK9SA/393420
 #EXTINF:-1 tvg-id="" tvg-name="US: HBO LATINO" tvg-logo="" group-title="Cinema Premium",US: 
 #EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="" group-title="Cinema Premium",US: SONY MOVIE CHANNEL
 http://svtv.xyz:8080/JaimeE/5KmK9SA/393418
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="Cinema Premium",ARG: HBO
+http://golplay.top:8080/live/211659898957889/4411659898957889/10025.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="Cinema Premium",ARG: HBO 2
+http://golplay.top:8080/live/211659898957889/4411659898957889/10023.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="Cinema Premium",ARG: HBO FAMILY
+http://golplay.top:8080/live/211659898957889/4411659898957889/10024.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="Cinema Premium",ARG: HBO SIGNATURE
+http://golplay.top:8080/live/211659898957889/4411659898957889/10027.ts
