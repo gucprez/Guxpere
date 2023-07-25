@@ -11,8 +11,6 @@ http://elmonkey.us:25461/movie/Victor/Victor/123698.mp4
 http://elmonkey.us:25461/movie/Victor/Victor/123699.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="ESTRENOS",Súper Mario Bros. La película (2023) 4K
 http://elmonkey.us:25461/movie/Victor/Victor/123700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El piloto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fthYqu5fv3GLjzvrQUGKvFGfF4N.jpg" group-title="Por Clasificar",El piloto (2023)
-http://elmonkey.us:25461/movie/Victor/Victor/109463.avi
 #EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="ESTRENOS",At Midnight (2023)
 http://elmonkey.us:25461/movie/Victor/Victor/118123.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ya era hora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC77nrTr5dTvPckQ4G5JVh9lhub.jpg" group-title="ESTRENOS",Ya era hora (2023)
@@ -149,11 +147,11 @@ http://elmonkey.us:25461/movie/Victor/Victor/118202.mkv
 http://elmonkey.us:25461/movie/Victor/Victor/118203.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Matadero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YHXvW1GWEcXAZXXSHfTsaGi4i2.jpg" group-title="ESTRENOS",Matadero (2022)
 http://elmonkey.us:25461/movie/Victor/Victor/118204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venganza a Toda Costa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIkBjrEX455MBwl1aFn95JPYFv.jpg" group-title="POPULARES 2022",Venganza a Toda Costa (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a Toda Costa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIkBjrEX455MBwl1aFn95JPYFv.jpg" group-title="ESTRENOS",Venganza a Toda Costa (2022)
 http://elmonkey.us:25461/movie/Victor/Victor/118300.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El vuelo de los ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9d0rhU1s3VHH84bWxM0F6dEKUm2.jpg" group-title="ESTRENOS",El vuelo de los ladrones (2023)
 http://elmonkey.us:25461/movie/Victor/Victor/118301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua (2022) FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="POPULARES 2022",Avatar: El sentido del agua (2022) FHD
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua (2022) FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="ESTRENOS",Avatar: El sentido del agua (2022) FHD
 http://elmonkey.us:25461/movie/Victor/Victor/118302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adicción perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="ESTRENOS",Adicción perfecta (2023)
 http://elmonkey.us:25461/movie/Victor/Victor/118303.mp4
