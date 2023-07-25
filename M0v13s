@@ -10,3 +10,5 @@ http://192.99.70.160:25461/Victor/Victor/89
 http://192.99.70.160:25461/Victor/Victor/90
 #EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="Cinema Premium",GOLDEN PLUS
 http://192.99.70.160:25461/Victor/Victor/86
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="Cinema Premium",GOLDEN EDGE
+http://192.99.70.160:25461/Victor/Victor/85
