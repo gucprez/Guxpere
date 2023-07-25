@@ -142,7 +142,7 @@ https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="JazminTV.do" tvg-logo="https://i.imgur.com/pbrzEgA.png" group-title="Rep.Dom",Jazmín TV (360p)
 https://tvdatta.com:3957/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="NOVELAS",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="ENTRETENIMIENTO",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="Rep.Dom",La Caleta TV
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
@@ -182,7 +182,7 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-id="NitidaTV.do" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Rep.Dom",Nítida TV
 https://live.teledom.info:3316/live/nitidatvlive.m3u8
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="NOVELAS",Novelísima [Not 24/7]
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="ENTRETENIMIENTO",Novelísima [Not 24/7]
 https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/621e8aef-969f-43c8-a6c3-b16d1a1eeb65:MRN2/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u88
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Brasil",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
