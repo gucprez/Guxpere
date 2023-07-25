@@ -12,12 +12,6 @@ http://svtv.xyz:8080/JaimeE/5KmK9SA/393420
 http://svtv.xyz:8080/JaimeE/5KmK9SA/393418
 #EXTINF:-1 tvg-id="" tvg-name="US: HBO LATINO" tvg-logo="" group-title="Cinema Premium",US: HBO LATINO
 http://svtv.xyz:8080/JaimeE/5KmK9SA/393421
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="Cinema Premium",ARG: HBO 2
-http://golplay.top:8080/live/211659898957889/4411659898957889/10023
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="Cinema Premium",ARG: HBO FAMILY
-http://golplay.top:8080/live/211659898957889/4411659898957889/10024
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="Cinema Premium",ARG: HBO SIGNATURE
-http://golplay.top:8080/live/211659898957889/4411659898957889/10027
 #EXTINF:-1 tvg-id="I288.101732.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Cinema Premium",FOX
 http://192.99.70.160:25461/Victor/Victor/69
 #EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="FOX PREMIUM ACTION (Star Action)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="Cinema Premium",FOX PREMIUM ACTION (Star Action)
@@ -38,3 +32,4 @@ http://192.99.70.160:25461/Victor/Victor/76
 http://192.99.70.160:25461/Victor/Victor/80
 #EXTINF:-1 tvg-id="I318.14988.schedulesdirect.org" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Cinema Premium",FXM
 http://192.99.70.160:25461/Victor/Victor/81
+
