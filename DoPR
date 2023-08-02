@@ -278,6 +278,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-id="Yunavision.do" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Rep.Dom",Yunavisión
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Zol106.do" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="Rep.Dom",Zol106 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ACDMedia" tvg-logo="https://acdmedia.com/img/logo-acdmedia.png" group-title="Rep.Dom",ACD Media 
+https://video.misistemareseller.com/entelevision/entelevision/chunklist_w1204522221.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Rep.Dom",ZTV (720p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
