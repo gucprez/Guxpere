@@ -162,6 +162,10 @@ http://svtv.xyz:8080/JaimeE/5KmK9SA/61814
 http://svtv.xyz:8080/JaimeE/5KmK9SA/275734
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM FHD" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/04/26/fox-sports-premium-cumplir-mes.jpg" group-title="Deportes", FOX SPORTS PREMIUM FHD
 http://svtv.xyz:8080/JaimeE/5KmK9SA/277666
+#EXTINF:-1 tvg-id="" tvg-name="| MX| FOX SPORTS  PREMIUM [ RT ]" tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/840_560.jpg" group-title="Deportes",| MX| FOX SPORTS  PREMIUM [ RT ]
+http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117628
+#EXTINF:-1 tvg-id="" tvg-name="| MX| FOX SPORTS  PREMIUM [RT HD]" tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/840_560.jpg" group-title="Deportes",| MX| FOX SPORTS  PREMIUM [RT HD]
+http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117629
 #EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS 1" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="Deportes",  CLARO SPORTS 1
 http://svtv.xyz:8080/JaimeE/5KmK9SA/311365
 #EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="Deportes", CLARO SPORTS GT
