@@ -281,3 +281,9 @@ http://elmonkey.us:25461/Victor/Victor/92516
 http://elmonkey.us:25461/Victor/Victor/92517
 #EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOCAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c38e618757eadf3d146920cb4e3e06bb.png" group-title="Deportes",BALLY SPORTS SOCAL
 http://elmonkey.us:25461/Victor/Victor/92518
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE Network" tvg-logo="https://pngset.com/images/wwe-network-logo-wallpaper-pc-wwe-network-logo-wallpapers-logo-wwe-network-poster-advertisement-flyer-brochure-transparent-png-1123841.png" group-title="Deportes",WWE Network
+http://elmonkey.us:25461/Victor/Victor/1478
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://pngset.com/images/wwe-network-logo-wallpaper-pc-wwe-network-logo-wallpapers-logo-wwe-network-poster-advertisement-flyer-brochure-transparent-png-1123841.png" group-title="Deportes",WWE Network
+http://elmonkey.us:25461/Victor/Victor/117109
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="https://pngset.com/images/wwe-network-logo-wallpaper-pc-wwe-network-logo-wallpapers-logo-wwe-network-poster-advertisement-flyer-brochure-transparent-png-1123841.png" group-title="Deportes",USA | WWE Network
+http://elmonkey.us:25461/Victor/Victor/91327
