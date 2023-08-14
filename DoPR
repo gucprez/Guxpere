@@ -242,6 +242,7 @@ https://angelistic.live:3785/live/tvoficiallive.m3u8
 #EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="Rep.Dom",Telesantodomingo
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Rep.Dom",Telesistema (480p)
+https://tunzilla.com/http://paz.sytes.net:32769/memfs/5095aca6-3afb-491c-a416-d575dcaa1da1_output_0.m3u8?session=TV7NjAieba2NaW2Q4d3csF
 http://aflaxtv.xyz:8080/mitrovic/tCTz8ZhyevV2qQYW/49438
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Rep.Dom",TeleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
