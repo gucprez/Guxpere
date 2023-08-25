@@ -104,6 +104,14 @@ http://svtv.xyz:8080/JaimeE/5KmK9SA/110878
 http://svtv.xyz:8080/JaimeE/5KmK9SA/110879
 #EXTINF:-1 tvg-id="" tvg-name="DLAT | TYC SPORTS INTERNACIONAL HD " tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="Deportes", TYC SPORTS INTERNACIONAL HD 
 http://svtv.xyz:8080/JaimeE/5KmK9SA/110880
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •",LD - TYC SPORTS
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/8247
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TYC SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS 2
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/49525
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TYC SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS HD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/1155819
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/43633
 #EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDNXTRA 1  " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" group-title="Deportes", TUDNXTRA 1  
 http://svtv.xyz:8080/JaimeE/5KmK9SA/110881
 #EXTINF:-1 tvg-id="" tvg-name="DLAT | TUDNXTRA 2   " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" group-title="Deportes", TUDNXTRA 2   
@@ -178,6 +186,25 @@ http://svtv.xyz:8080/JaimeE/5KmK9SA/311373
 http://svtv.xyz:8080/JaimeE/5KmK9SA/311380
 #EXTINF:-1 tvg-id="" tvg-name="DEP | CLARO SPORTS GT" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="Deportes", CLARO SPORTS GT
 http://svtv.xyz:8080/JaimeE/5KmK9SA/311382
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/1091366
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/7863
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS SD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/33512
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 FHD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/1091367
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/32882
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 SD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/32881
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="LD - DIRECTV SPORTS PLUS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS FHD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/1091368
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/27879
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS SD
+http://tv.nousiptv.com:8080/Enrique2022/Enrique22/8520
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Arizona Alternate" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b0d06e2e1e64499aeaa719c2bb735084.png" group-title="Deportes",US: Bally Sports Arizona Alternate
 http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/296660
