@@ -16,6 +16,19 @@ http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117622
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/117623
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MOVISTAR F1",UK: Sky Sports F1
 http://s1.pubnow.info:8080/OUBAIDA/3dKDsZpsN8dW/427484
-
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- Dazn F1 FHD" tvg-logo="http://yorkshiredog.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",L- Dazn F1 FHD
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10285
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- Dazn F1 FHD Extra" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",L- Dazn F1 FHD Extra
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10286
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="E- DAZN F1 FHD" tvg-logo="" group-title="Formula 1",E- DAZN F1 FHD
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/38799
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="J- Dazn F1 FHD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",J- Dazn F1 FHD
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10287
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="G1- Dazn F1 FHD" tvg-logo="http://yorkshiredog.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",G1- Dazn F1 FHD
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10288
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- DAZN F1 SD" tvg-logo="http://yorkshiredog.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",L- DAZN F1 SD
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10289
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- Dazn F1 4K" tvg-logo="http://yorkshiredog.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="Formula 1",L- Dazn F1 4K
+http://katfil.com:8080/DREAMdisc1103new/13012023nw/10290
 
 
