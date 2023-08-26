@@ -31,7 +31,7 @@ https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="DO: Color Vision 9" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed6305ee08bebebb85cdfd632f4a54e1.png" group-title="Rep.Dom",DO: Color Vision 9
-https://tunzilla.com/http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f_output_0.m3u8?session=UjJYYHNdBrp6aHJaJJdNfo
+https://tunzilla.com/http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8
 #EXTINF:-1 tvg-id="Mia Vision TV" tvg-logo="https://miavision.tv/wp-content/uploads/2022/04/cropped-MIA-2022-ORIGINAL.png" group-title="Rep.Dom",Mia Vision TV
 https://rdn.essastream.com:3530/live/miavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Rep.Dom",ADOCCO TV (720p)
