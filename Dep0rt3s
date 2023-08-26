@@ -714,3 +714,29 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/998966
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/998967
 #EXTINF:-1 tvg-id="" tvg-name="EVENT 50" tvg-logo="https://logodix.com/logo/2188701.png" group-title="EVENTS",EVENT 50
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/998968
+
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="SPORTSNET ONE HD (CA)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/6xrBhwsKkMIbRxhw0n7lnd/6d8ab7df5548a392d19ff2ac52813a57/Sportsnet_One.jpg" group-title="SPORTS BOX",SPORTSNET ONE HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20995
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SPORTNET ONTARIO (CA)" tvg-logo="http://stmgroup.xyz/logo/snontario.png" group-title="SPORTS BOX",SPORTNET ONTARIO (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20996
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SPORTSNET WORLD (CA) " tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/c7/43/25/c743259d-bb07-2ac2-49a6-550324af62ff/source/512x512bb.jpg" group-title="SPORTS BOX",SPORTSNET WORLD (CA) 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20997
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC HD (CA)" tvg-logo="http://stmgroup.xyz/logo/snpac.png" group-title="SPORTS BOX",SPORTSNET PACIFIC HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20998
+#EXTINF:-1 tvg-id="foxsportswest.us" tvg-name="SPORTSNET WEST HD (CA)" tvg-logo="http://stmgroup.xyz/logo/snwest.png" group-title="SPORTS BOX",SPORTSNET WEST HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20999
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SPORTSNET EAST (CA)" tvg-logo="http://stmgroup.xyz/logo/sneast.png" group-title="SPORTS BOX",SPORTSNET EAST (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21000
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SPORTSNET 360 HD (CA)" tvg-logo="https://wightman.ca/content/resources/tv-channels/@channel/sportsnet360.png" group-title="SPORTS BOX",SPORTSNET 360 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21001
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="SPORTS BOX",TSN 1 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="SPORTS BOX",TSN 2 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21005
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="SPORTS BOX",TSN 3 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21004
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="SPORTS BOX",TSN 4 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="SPORTS BOX",TSN 5 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
